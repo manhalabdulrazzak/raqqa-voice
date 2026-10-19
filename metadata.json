@@ -1,0 +1,8 @@
+{
+  "name": "منصة صوت الرقة — صوتك يصل",
+  "description": "المنصة الموحدة للشكاوى والمقترحات الخدمية للمواطنين في محافظة الرقة، المبنية على معمارية وطنية جاهزة للتوسع لكافة المحافظات السورية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
